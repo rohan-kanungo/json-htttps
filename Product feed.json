@@ -1,0 +1,29 @@
+ {
+                "category": [
+                    "money"
+                ],
+                "brand": "international living",
+                "image": "https://images.ctfassets.net/yiil34ggxxe1/6ceny9ug9lzed6wiglybuv/a91cfed633337caeaba71b7c5a263e15/coronado-panama-1-2-300x225.jpg",
+                "product_id": "journey_1",
+                "availability": "in_stock",
+                "title": "a new journey to test the email content for promocode",
+                "web_link": "https://secured.banyanhill.com/journey/wmc-cmzbattery-007/1",
+                "start_date": "2023-05-15T20:47:59Z",
+                "created_at": "2023-05-15T20:53:23Z",
+                "parent_sku": "test_journey",
+                "cta_url": "https://secured.banyanhill.com/journey/WMC-CMZBATTERY-007/3?promocode=ELD1Y503",
+                "cart_abandon_email_content": [
+                    {
+                        "author": "Jessica Ramesch",
+                        "author_signature": "//images.ctfassets.net/yiil34ggxxe1/5ZUXEOzSeNEhpC0L2NIlJE/c001866ea66d21d9044c110a34d345a0/Jen_Stevens_Signature.jpeg",
+                        "author_title": "International Living Panama Editor",
+                        "body_para_first": "<p><span>You recently saw Charles Mizrahi’s presentation on the electric vehicle battery revolution…</span></p><p><span>In it, he revealed how the Forever Battery is predicted to cause a 1.500% surge in EV sales over the next 4 years…</span></p><p><span>And how that tailwind will cause one secretive company’s stock to skyrocket.</span></p>",
+                        "body_para_second": "<p><span>But you somehow got bumped off the order form and you still don’t have access to his two new reports … </span><span style=\font-weight: bold; font-style: italic;\">The Forever Battery: How to Profit as EV Sales Grow 1.500% Over the Next 4 Years</span><span style=\"font-style: italic;\"> … and </span><span style=\"font-weight: bold; font-style: italic;\">A New Era of Energy Storage: The Hottest Breakthrough of the 21st Century</span><span style=\"font-style: italic;\">.</span></p><p><span>I’d really hate for you to miss out on this. I know you were interested before … because you had started filling out the order form.</span></p></span></p><p><span>SoI want to give you one last chance </span>",
+                        "body_cta_text": "to complete your order.",
+                        "body_para_final": "<p><span>Remember you get:</span></p><p><span>One-year membership to </span><span style=\"font-style: italic;\">Alpha Investor.</span>\n </p><p><span>Twelve monthly issues.</span>\n </p><p><span>Access to the model portfolio.</span></p><p><span>Weekly alerts and updates.</span></p><p><span>The </span><span style=\"font-style: italic;\">Alpha Investor Investing Manual.</span>\n </p><p><span style=\"font-style: italic;\"> </span><span>Access to a private members-only website.</span>\n </p><p><span> A dedicated customer care team.</span>\n </p><p><span>And of course most important of all your free copy of </span><span style=\"font-style: italic;\">The Forever Battery: How to Profit as EV Sales Grow 1 500% Over the Next 4 Years … and A New Era of Energy Storage: The Hottest Breakthrough of the 21st Century.</span></p><p><span>That’s $199 in value for </span><span style=\"font-weight: bold;\">only $47</span><span>.</span>\n </p><p><span>But this is your last chance to be taken directly back to the order page so you can finish filling it out. You don’t want to miss this opportunity. <p><span>Sincerely </span>\n </p><p><span>Brandt Huseman\nDirector of Customer Experience</span><span style=\"font-style: italic;\">Alpha Investor</span> </p>",
+                        "headshot": "//images.ctfassets.net/yiil34ggxxe1/1XrJ0jbgTMY1FOZXVHCEPF/d205b587156ba6f1a11d92776e1d1afa/Jessica-Ramesch-New.jpg",
+                        "preheader": "I hope this email finds you well",
+                        "subject": "Hello"
+                    }
+                ]
+            }
